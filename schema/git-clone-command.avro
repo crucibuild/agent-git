@@ -1,0 +1,8 @@
+{
+  "type": "record",
+  "name": "crucibuild/agent-git#clone-command",
+  "fields": [
+    { "name": "src", "type": "string" },
+    { "name": "dst", "type": "string" },
+  ]
+}

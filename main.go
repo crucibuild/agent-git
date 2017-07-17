@@ -23,14 +23,14 @@ func main() {
 	}
 
 	if err = agent.ParseCommandLine(); err != nil {
-		panic(err)	
+		panic(err)
 	}
 
 	if err = agent.Wait(); err != nil {
-		panic(err)	
+		panic(err)
 	}
 
 	if err = agent.Close(); err != nil {
-		panic(err)	
+		panic(err)
 	}
 }

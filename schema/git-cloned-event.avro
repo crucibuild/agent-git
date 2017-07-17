@@ -1,0 +1,8 @@
+{
+     "type": "record",
+     "name": "crucibuild/agent-git#cloned-event",
+     "fields": [
+       { "name": "rcode", "type": "int" },
+       { "name": "message", "type": "string" }
+     ]
+}
