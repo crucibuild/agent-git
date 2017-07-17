@@ -1,0 +1,7 @@
+{
+  "name": "agent-git",
+  "title": "Agent Git",
+  "description" : "Agent which provides Git services.",
+  "version": "0.1.0",
+  "keyword": ["go", "agent"]
+}
